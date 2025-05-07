@@ -6,16 +6,12 @@ React, Next.js, TypeScript, Tailwind CSS, Redux ve React Query gibi modern tekno
 Daha önce sosyal medya platformlarından e-ticaret sitelerine, harita tabanlı not uygulamalarından anlık mesajlaşma sistemlerine kadar birçok farklı projede aktif rol aldım.  
 Her satır kodda hem işlevselliği hem estetiği önceliklendiriyor, her projede öğrenmeye ve daha iyisini üretmeye devam ediyorum.
 
----
-
 ## Bana Ulaşın  
 <p align="left">
   <a href="https://linkedin.com/in/mucahitcetin1" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
   </a>
 </p>
-
----
 
 ## Kullandığım Teknolojiler
 <p align="left"> 
