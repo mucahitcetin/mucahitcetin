@@ -8,7 +8,7 @@ Her satır kodda hem işlevselliği hem estetiği önceliklendiriyor, her projed
 
 ---
 
-### 📫 Bana Ulaşın  
+## Bana Ulaşın  
 <p align="left">
   <a href="https://linkedin.com/in/mucahitcetin1" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
@@ -17,7 +17,7 @@ Her satır kodda hem işlevselliği hem estetiği önceliklendiriyor, her projed
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler
+## Kullandığım Teknolojiler
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
