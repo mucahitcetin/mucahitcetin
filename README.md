@@ -1,10 +1,23 @@
-### Merhaba👋 Kodla düşünmeyi, piksel hassasiyetinde arayüzler inşa etmeyi ve kullanıcıların hayatını kolaylaştıran dijital deneyimler tasarlamayı seviyorum. React, Next.js, TypeScript, Tailwind CSS, Redux ve React Query gibi modern teknolojilerle; sade ama güçlü, esnek ama kararlı arayüzler geliştiriyorum. Şu sıralar Solar Tools projesinde dashboard yapıları, dinamik bileşen sistemleri ve canlı veri akışları üzerine üretim odaklı çözümler geliştiriyorum. Daha önce sosyal medya platformlarından e-ticaret sitelerine, harita tabanlı not uygulamalarından anlık mesajlaşma sistemlerine kadar birçok farklı projede aktif rol aldım. Her satır kodda hem işlevselliği hem estetiği önceliklendiriyor, her projede öğrenmeye ve daha iyisini üretmeye devam ediyorum.
-<h2 align="left">Connect with me:</h2>
+### Merhaba 👋 
+
+Kodla düşünmeyi, piksel hassasiyetinde arayüzler inşa etmeyi ve kullanıcıların hayatını kolaylaştıran dijital deneyimler tasarlamayı seviyorum.  
+React, Next.js, TypeScript, Tailwind CSS, Redux ve React Query gibi modern teknolojilerle; sade ama güçlü, esnek ama kararlı arayüzler geliştiriyorum.  
+Şu sıralar **Solar Tools** projesinde dashboard yapıları, dinamik bileşen sistemleri ve canlı veri akışları üzerine üretim odaklı çözümler geliştiriyorum.  
+Daha önce sosyal medya platformlarından e-ticaret sitelerine, harita tabanlı not uygulamalarından anlık mesajlaşma sistemlerine kadar birçok farklı projede aktif rol aldım.  
+Her satır kodda hem işlevselliği hem estetiği önceliklendiriyor, her projede öğrenmeye ve daha iyisini üretmeye devam ediyorum.
+
+---
+
+### 📫 Bana Ulaşın  
 <p align="left">
-<a href="https://linkedin.com/in/mucahitcetin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mucahitcetin1" height="50" width="60" /></a>
+  <a href="https://linkedin.com/in/mucahitcetin1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+  </a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+---
+
+### 🛠️ Kullandığım Teknolojiler
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
